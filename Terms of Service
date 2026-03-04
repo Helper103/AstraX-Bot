@@ -1,6 +1,6 @@
 # AstraX Bot – Terms of Service
 
-Last Updated: February 26, 2026
+Last Updated: March 4, 2026
 
 
 ## 1. Acceptance of Terms
@@ -39,9 +39,7 @@ The Bot may provide the following features:
 * Moderation tools (ban, timeout, voice mute, temporary roles)
 * Automated moderation (keyword filtering)
 * Logging system
-* Welcome and leave messages
 * Sticky roles
-* Giveaway management
 * Invite tracking statistics
 * Bug reporting system
 * Utility commands
@@ -57,8 +55,8 @@ Server administrators are solely responsible for:
 * How logs are stored within Discord channels
 * How moderation actions are applied
 
+Bot functionality depends on the permissions granted to it by server administrators and the server’s configuration. Some features may be limited or unavailable if required permissions are missing.
 The Bot only executes actions based on user interaction and permissions granted within Discord.
-
 
 ## 6. Limitation of Liability
 
