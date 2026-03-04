@@ -1,38 +1,121 @@
-1. Introduction
+# AstraX Bot – Privacy Policy
 
-This Privacy Policy explains how AstraX collects, uses, and protects your data when using the bot on Discord. By using AstraX, you agree to the terms described below.
+Last Updated: March 4, 2026
 
-2. Data Collection
 
-AstraX may collect the following types of data:
+## 1. Overview
 
-Discord User IDs – to identify users for moderation or administrative actions.
+This Privacy Policy explains what data AstraX processes and how it is used.
 
-Server IDs – to identify servers where AstraX is active.
+AstraX operates exclusively within Discord and processes data only as necessary to provide its functionality.
 
-Activity events – e.g., joining/leaving voice channels, for features like voice mute.
 
-Note: AstraX does not collect or store private messages, passwords, or any sensitive personal information.
+## 2. Message Content Processing
 
-3. Data Usage
+AstraX may process message content in servers where it is installed strictly for:
 
-Collected data is used only to provide bot functionality, such as moderation, administrative commands, and utility features.
-Data is never sold, shared with third parties, or used for advertising purposes.
+* Executing commands
+* Applying moderation rules
+* Keyword-based automated moderation
+* Logging deleted or edited messages
 
-4. Data Retention and Deletion
+Message content is only processed within servers where the Bot is present.
 
-Data is retained only as long as necessary for the bot’s operation.
-Server administrators can request deletion of stored data by contacting the support server.
+Processing of message content complies with Discord’s Message Content Intent Policy.
 
-5. Security
 
-AstraX takes reasonable measures to protect collected data from unauthorized access, disclosure, or misuse.
+## 3. Data Processed
 
-6. Changes to Privacy Policy
+The Bot may process:
 
-We may update this Privacy Policy from time to time. Users will be notified of significant changes via the Discord support server.
+* Discord user IDs
+* Server IDs
+* Channel IDs
+* Role IDs
+* Message IDs
+* Invite usage data
+* Moderation records
+* Giveaway participation data
+* Configuration settings
 
-7. Contact
+This data is used solely to operate the Bot’s features.
 
-For any questions or concerns regarding privacy or data, please contact us via our Discord server:
-👉 https://discord.gg/F2GmV6gvwT
+
+## 4. Temporary Data and Cache
+
+The Bot may temporarily store data in memory to:
+
+* Track invite usage
+* Manage active moderation actions
+* Process commands
+* Maintain session-based functionality
+
+Temporary data may be cleared automatically during restarts or updates.
+
+
+## 5. Data We Do Not Collect
+
+We do not collect:
+
+* Passwords
+* Email addresses
+* Authentication tokens
+* Payment information
+* Location data
+* Third-party analytics data
+
+We do not sell or share personal data with third parties.
+
+
+## 6. Data Usage
+
+Collected data is used only to:
+
+* Enforce moderation actions
+* Operate logging systems
+* Manage giveaways
+* Provide invite statistics
+* Process bug reports
+* Maintain system stability
+
+Data is never used for advertising or profiling.
+
+
+## 7. Data Retention
+
+Data is retained only as long as necessary to provide the Bot’s functionality.
+
+* Temporary moderation data is removed when it expires.
+* Configuration data remains until modified or deleted.
+* If the Bot is removed from a server, associated data may be deleted within a reasonable timeframe.
+
+
+## 8. Data Access
+
+Access to operational data is restricted to the Bot operators.
+
+We do not sell, trade, or distribute user data.
+
+
+## 9. Security
+
+Reasonable technical measures are implemented to protect processed data.
+However, no system can guarantee absolute security.
+
+
+## 10. User Rights
+
+You may:
+
+* Request deletion of your associated data
+* Ask a server administrator to remove the Bot
+* Contact us regarding privacy concerns
+
+
+## 11. Contact
+
+For privacy-related inquiries:
+
+* Submit a support ticket in the AstraX Support Server or in our support section on our website.
+* Website: https://astrax.my
+* Discord: https://discord.gg/AstraX
